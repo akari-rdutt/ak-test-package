@@ -2,6 +2,6 @@ const sayHello = () => {
   console.log('Hello');
 }
 
-export {
+module.exports = {
     sayHello,
 }
