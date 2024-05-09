@@ -1,5 +1,5 @@
 {
-  "name": "ak-test-package",
+  "name": "@akari-rdutt/ak-test-package",
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
@@ -7,8 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/akari-rdutt/ak-test-package.git"
+    "url": "git@github.com:akari-rdutt/ak-test-package.git"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
